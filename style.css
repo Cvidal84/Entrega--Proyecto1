@@ -412,10 +412,13 @@ footer {
         text-align: center;
     }
    .formulario {
-    padding: 0px;
+        padding: 0px;
    }
    .expertos {
-    padding: 0px;
+        padding: 0px;
+   }
+   form  {
+        padding: 20px;
    }
 }
 
