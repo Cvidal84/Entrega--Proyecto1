@@ -379,22 +379,15 @@ footer {
         background-image: url(./Botones/Logopcc.png);
         background-size: cover;
         background-position: center;
-        width: auto;
-        height: auto;
+        width: 100%;
+        height: 200px;
     }
-    /* .primernav {
-        display: none;
-    } */
     .segundonav {
         display: none;
     }
     .expertos {
         color: transparent;
         border: none;
-    }
-    
-    h3 {
-        display:none;
     }
     .botones {
         grid-template-columns: 1fr;
@@ -418,8 +411,12 @@ footer {
         justify-content: center;
         text-align: center;
     }
-
-    
+   .formulario {
+    padding: 0px;
+   }
+   .expertos {
+    padding: 0px;
+   }
 }
 
 
